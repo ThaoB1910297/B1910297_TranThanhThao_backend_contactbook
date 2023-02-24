@@ -1,0 +1,23 @@
+{
+  "name": "b1910297_tranthanhthao_backend_contactbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThaoB1910297/B1910297_TranThanhThao_backend_contactbook.git"
+  },
+  "author": "Tran Thao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThaoB1910297/B1910297_TranThanhThao_backend_contactbook/issues"
+  },
+  "homepage": "https://github.com/ThaoB1910297/B1910297_TranThanhThao_backend_contactbook#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
